@@ -88,6 +88,10 @@ html {
    padding-bottom: 4rem;
    z-index: 1;
 }
+.card-illustration {
+   height: 22rem;
+   width: 100%;
+}
 .content {
    width: 35.4rem;
    text-align: center;

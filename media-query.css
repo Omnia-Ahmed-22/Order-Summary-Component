@@ -13,4 +13,8 @@
    html {
       font-size: 50%;
    }
+   .card-illustration {
+      height: 16rem;
+      width: 100%;
+   }
 }
