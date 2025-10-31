@@ -80,6 +80,7 @@ html {
 /* Card Component */
 .card {
    overflow: hidden;
+   min-width: 32.7rem;
    width: 45rem;
    border-radius: 2rem;
    background-color: var(--color-white);
